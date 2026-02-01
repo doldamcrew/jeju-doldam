@@ -1,0 +1,21 @@
+
+{
+  "name": "jeju-doldam-landing",
+  "version": "1.1.0",
+  "private": true,
+  "description": "제주 돌담 현장체험학습 안전관리 전문 기업 랜딩페이지",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "lucide-react": "^0.563.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "author": "Jeju Doldam",
+  "license": "MIT"
+}
